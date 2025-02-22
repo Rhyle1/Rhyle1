@@ -29,17 +29,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhyle1&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyle1E&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Firefox&logoColor=white)](https://YOUR_PORTFOLIO/)  
-
----
 
 ⚡ *Fun Fact:* I love coding & coffee ☕🚀  
