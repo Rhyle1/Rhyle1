@@ -19,11 +19,11 @@
 ---
 
 ### 🛠 Tech Stack  
-- 💻 **Languages:** JavaScript, Python, Java, C++  
-- 🌐 **Frontend:** React, HTML, CSS, Tailwind  
-- ⚙️ **Backend:** Node.js, Express, Django  
-- 🛢 **Database:** MongoDB, PostgreSQL, Firebase  
-- ☁ **Cloud & DevOps:** AWS, Docker, GitHub Actions  
+- 💻 **Languages:** JavaScript, Java, C++  
+- 🌐 **Frontend:**  HTML, CSS,  
+- ⚙️ **Backend:**   
+- 🛢 **Database:** 
+- ☁ **Cloud & DevOps:**  GitHub Actions  
 
 ---
 
